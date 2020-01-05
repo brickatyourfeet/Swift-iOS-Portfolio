@@ -3,10 +3,10 @@ A collection of some current iOS projects, achievements, and certifications.
 
 
 
-# Projects
+## Projects
 
 
 
-# Certificates
+## Certificates
 
 
