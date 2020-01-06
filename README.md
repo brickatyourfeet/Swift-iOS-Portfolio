@@ -16,6 +16,7 @@ A Swift / iOS chat app that uses Firebase/Firestore for registering and logging 
 Template app made for a list of definitions for studying.
 Currently being used for providing United States facts and to scrape the web for additional state info.
 
+![states list](https://github.com/brickatyourfeet/Swift-iOS-Portfolio/blob/master/low-quality-states.png)
 
 ### [This is Progress](https://github.com/brickatyourfeet/this-is-progress)
 Swift / iOS app that uses device camera and Core Data for tracking progress with photos
