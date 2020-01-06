@@ -1,5 +1,6 @@
 # Swift-iOS-Portfolio
-A collection of some current iOS projects, achievements, and certifications.
+A collection of some current iOS projects, achievements, and certifications. 
+Check back for updates.
 
 
 
