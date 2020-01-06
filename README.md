@@ -9,7 +9,9 @@ A collection of some current iOS projects, achievements, and certifications.
 
 [Definitions](https://github.com/brickatyourfeet/definitions)
 
-[This is Progress](https://github.com/brickatyourfeet/this-is-progress)
+### [This is Progress](https://github.com/brickatyourfeet/this-is-progress)
+
+![Progress demo gif](https://github.com/brickatyourfeet/Swift-iOS-Portfolio/blob/master/progress-quick-demo-small.gif)
 
 [Crickets 2](https://github.com/brickatyourfeet/crickets-2)
 
