@@ -26,8 +26,7 @@ Swift / iOS app that uses device camera and Core Data for tracking progress with
 An app that activates a cricket noise immediately upon opening for awkward silences, and then turns on and off with a button.
 
 
-
-
+---------------
 
 ## Certificates
 
