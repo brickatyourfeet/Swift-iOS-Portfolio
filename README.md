@@ -5,15 +5,25 @@ A collection of some current iOS projects, achievements, and certifications.
 
 ## Projects
 
-[ChatChat](https://github.com/brickatyourfeet/ChatChat)
+### [ChatChat](https://github.com/brickatyourfeet/ChatChat)
+A Swift / iOS chat app that uses Firebase/Firestore for registering and logging in users, and stores message data.
 
-[Definitions](https://github.com/brickatyourfeet/definitions)
+![ChatChat demo gif](https://github.com/brickatyourfeet/Swift-iOS-Portfolio/blob/master/chatchat-demo-small-low-quality.gif)
+
+
+### [Definitions](https://github.com/brickatyourfeet/definitions)
+Template app made for a list of definitions for studying.
+Currently being used for providing United States facts and to scrape the web for additional state info.
+
 
 ### [This is Progress](https://github.com/brickatyourfeet/this-is-progress)
+Swift / iOS app that uses device camera and Core Data for tracking progress with photos
 
 ![Progress demo gif](https://github.com/brickatyourfeet/Swift-iOS-Portfolio/blob/master/progress-quick-demo-small.gif)
 
-[Crickets 2](https://github.com/brickatyourfeet/crickets-2)
+
+### [Crickets 2](https://github.com/brickatyourfeet/crickets-2)
+An app that activates a cricket noise immediately upon opening for awkward silences, and then turns on and off with a button.
 
 
 
