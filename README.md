@@ -7,7 +7,7 @@ Check back for updates.
 ## Projects
 
 ### [ChatChat](https://github.com/brickatyourfeet/ChatChat)
-A Swift / iOS chat app that uses Firebase/Firestore for registering and logging in users, and stores message data.
+A Swift / iOS chat app that uses Firebase/Firestore for registering and logging in users, and storing message data.
 
 ![ChatChat demo gif](https://github.com/brickatyourfeet/Swift-iOS-Portfolio/blob/master/chatchat-demo-small-low-quality.gif)
 
