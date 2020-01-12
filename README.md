@@ -35,3 +35,5 @@ An app that activates a cricket noise immediately upon opening for awkward silen
 ![Swift Level 1 Certification](https://github.com/brickatyourfeet/Swift-iOS-Portfolio/blob/master/KBraden-Swift5-lvl1-cert.png)
 
 ![Swift Level 2 Certification](https://github.com/brickatyourfeet/Swift-iOS-Portfolio/blob/master/KBraden-Swift5-lvl2-cert.png)
+
+![Mobile Testing Masterclass Certificate](https://github.com/brickatyourfeet/Swift-iOS-Portfolio/blob/master/mobile-testing-masterclass-cert.jpg)
