@@ -6,6 +6,9 @@ Check back for updates.
 
 ## Projects
 
+### [Cork Board](https://github.com/brickatyourfeet/swift-corkboard)
+Contributing to iOS app that allows users to share media and information from their phone directly with their friends and family on easy-to-use boards.
+
 ### [ChatChat](https://github.com/brickatyourfeet/ChatChat)
 A Swift / iOS chat app that uses Firebase/Firestore for registering and logging in users, and storing message data.
 
